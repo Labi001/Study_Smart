@@ -1,0 +1,5 @@
+![Screenshot 2024-03-08 213648](https://github.com/Labi001/Study_Smart/assets/69488900/64cc54aa-3612-4e44-8df2-d39c05845611)
+![Screenshot 2024-03-08 213748](https://github.com/Labi001/Study_Smart/assets/69488900/21af49e5-c238-4f2a-9584-cab77e838c23)
+![Screenshot 2024-03-08 213850](https://github.com/Labi001/Study_Smart/assets/69488900/0a5c79d7-6913-4c46-9455-d26670a7443d)
+![Screenshot 2024-03-08 213955](https://github.com/Labi001/Study_Smart/assets/69488900/f0bd38bd-df9e-4f48-b3a4-bd6343bf1023)
+![Screenshot 2024-03-08 214033](https://github.com/Labi001/Study_Smart/assets/69488900/a53b6f3c-7619-460e-9330-153b40aa1928)
