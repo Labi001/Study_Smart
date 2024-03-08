@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StudySmart</string>
+    <string name="add_subject">Add Subject</string>
+    <string name="empty_books">Empty Books</string>
+    <string name="delete_section">Delete Section</string>
+    <string name="icon_back">Icon Back</string>
+    <string name="delete_icon">Delete Icon</string>
+    <string name="edit_icon">Edit Icon</string>
+    <string name="add_icon">Add Icon</string>
+    <string name="arrow_down_icon">Arrow down Icon</string>
+</resources>
